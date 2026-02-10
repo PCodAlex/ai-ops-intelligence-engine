@@ -69,20 +69,3 @@ Add your screenshots here 👇
 🧑‍💻 Author
 Akash Samanta  
 B.Tech CSE | Java Backend Developer | AI Enthusiast  
-
-⭐ If you like this project
-Give it a ⭐ on GitHub and connect with me on LinkedIn!
-
-💡 Want it to look ULTRA-PREMIUM? (3D + animated)
-
-If you say YES, I'll add:
-
-* animated typing header
-* 3D devops gif
-* contribution snake
-* visitor counter
-* GitHub stats
-* futuristic README
-
-Reply:
-MAKE README ULTRA PREMIUM 😈

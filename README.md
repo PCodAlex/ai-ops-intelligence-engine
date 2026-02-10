@@ -23,19 +23,6 @@ This project simulates how real IT companies analyze logs using AI-driven backen
 🧾 5000+ log dataset simulation  
 💻 Fully CLI-based backend system  
 
-🏗️ System Architecture
-
-      +----------------------+
-      |   CLI Interface      |
-      +----------------------+
-                |
-  ---------------------------------
-  |        |        |             |
-Log Engine  AI Engine Dashboard  Alerts
-|        |
---------Database------------
-PostgreSQL
-
 🧪 Tech Stack
 Technology | Usage
 Java | Core backend logic
